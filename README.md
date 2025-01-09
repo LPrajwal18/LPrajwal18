@@ -14,7 +14,7 @@ I aim to write clean, well-structured code and document my work thoroughly. I’
 When I'm not coding, you can find me on the badminton court, perfecting my serve, or exploring the latest tech trends. I love reading about AI advancements and participating in hackathons!
 
 ## 📫 Let's Connect
-Feel free to explore my profile and reach out if you're interested in collaboration or just want to chat about technology and badminton!
+Feel free to explore my profile and reach out if you're interested in collaboration or just want to chat about technology and badminton! lprajwal18@gmail.com
 
 ## 📊 My GitHub Stats
 Here are my GitHub stats that reflect my activity and contributions:
